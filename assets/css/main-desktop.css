@@ -112,12 +112,13 @@ body {
     width:44px;
     height:44px;
     z-index:99;
-    background-color:#111
+    /*background-color:#111*/
 }
-.sidebar .sidebar__logo .sidebar__logo__image {
+/*.sidebar .sidebar__logo .sidebar__logo__image {
     width:22px;
     margin:11px
 }
+*/
 .sidebar .sidebar__information {
     position:absolute;
     bottom:0;
@@ -373,7 +374,7 @@ body {
     padding:120px 0
 }
 .contentpost .contentpost__logo {
-    position:absolute;
+    position:fixed;
     top:10px;
     left:10px;
     width:44px;
@@ -387,13 +388,14 @@ body {
 .contentpost .contentpost__logo a:visited, .contentpost .contentpost__logo a:focus, .contentpost .contentpost__logo a:active {
     color:#111
 }
-.contentpost .contentpost__logo__img_black_background {
+/*.contentpost .contentpost__logo__img_black_background {
     background-color:#111
 }
 .contentpost .contentpost__logo__img_black_background img {
     width:22px;
     margin:11px
 }
+*/
 .contentpost .contentpost__inner {
     max-width:700px;
     width:50%;

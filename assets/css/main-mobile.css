@@ -109,12 +109,13 @@ body {
     width:44px;
     height:44px;
     z-index:99;
-    background-color:#111
+    /*background-color:#111*/
 }
-.sidebar .sidebar__logo .sidebar__logo__image {
+/*.sidebar .sidebar__logo .sidebar__logo__image {
     width:22px;
     margin:11px
 }
+*/
 .sidebar .sidebar__information {
     position:absolute;
     bottom:0;
@@ -371,12 +372,13 @@ body {
     width:44px;
     height:44px;
     z-index:99;
-    background-color:#111
+    /*background-color:#111*/
 }
-.contentpost .contentpost__logo img {
+/*.contentpost .contentpost__logo img {
     width:22px;
     margin:11px
 }
+*/
 .contentpost .contentpost__inner {
     max-width:550px;
     width:90%;
